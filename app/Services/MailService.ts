@@ -70,9 +70,6 @@ class MailService {
                                                                         <table cellpadding="0" cellspacing="0" width="100%">
                                                                             <tbody>
                                                                                 <tr>
-                                                                                    <td align="center" class="esd-block-image es-p10t es-p10b" style="font-size: 0px;"><a target="_blank"><img src="http://192.168.100.31:3000/img/logo_preta.png" alt style="display: block;" width="100"></a></td>
-                                                                                </tr>
-                                                                                <tr>
                                                                                     <td align="center" class="esd-block-text es-p15t es-p15b es-p40r es-p40l es-m-p0r es-m-p0l es-m-txt-c" esd-links-underline="none">
                                                                                         <h1>Aplicação</h1>
                                                                                     </td>
