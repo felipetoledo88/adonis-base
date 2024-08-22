@@ -7,14 +7,8 @@ export default class UsersSeeder extends BaseSeeder {
         await Users.createMany([
             {
                 profile_id: 2,
-                name: 'Higor Soares',
-                email: 'soares@swiftsoft.com.br',
-                password: 'toFixed(1)',
-            },
-            {
-                profile_id: 2,
-                name: 'Jean Gustavo',
-                email: 'jean@swiftsoft.com.br',
+                name: 'Felipe Toledo',
+                email: 'felipetoledo88@gmail.com',
                 password: 'toFixed(1)',
             },
         ])
