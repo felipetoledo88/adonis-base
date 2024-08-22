@@ -1,0 +1,14 @@
+node_modules
+build
+coverage
+.vscode
+.DS_STORE
+.env
+tmp
+
+
+app/assets
+public
+
+#deploy
+# .github
