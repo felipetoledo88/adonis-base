@@ -32,7 +32,7 @@ Ter SQL Server instalado (Senha "root") e algum SGBD.
 
 -Criar uma conexão local sem apontar o schema principal
 
--Criar database com nome 'scraper'
+-Criar database com nome 'db'
 
 -Se estiver usando o DBeaver (SGBD) para conexão local ir até opções avançadas da conexão e ativar "Usar SSL" se necessário
 

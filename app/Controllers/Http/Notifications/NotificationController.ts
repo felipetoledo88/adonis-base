@@ -39,19 +39,6 @@ export default class NotificationController {
         }
       },
       {
-        id: 3,
-        message: 'Atualização de software programada para 26/07 às 02h00',
-        time: DateTime.local().set({ day: 26, hour: 2, minute: 0 }).toISO(),
-        typeId: 3, // Referencia o tipo de notificação 'system'
-        view: 0,
-        link: '/system',
-        user: {
-          id: 1,
-          name: 'Scraper',
-          profileImage: 'https://scraperapi-homol.swiftsoft.online/images/logo/favicon.ico'
-        }
-      },
-      {
         id: 4,
         message: 'Conheça as vantagens de ser um associado Sicredi!',
         time: DateTime.local().set({ day: 27, hour: 10, minute: 0 }).toISO(),

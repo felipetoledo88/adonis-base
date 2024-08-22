@@ -74,7 +74,7 @@ class MailService {
                                                                                 </tr>
                                                                                 <tr>
                                                                                     <td align="center" class="esd-block-text es-p15t es-p15b es-p40r es-p40l es-m-p0r es-m-p0l es-m-txt-c" esd-links-underline="none">
-                                                                                        <h1>Scraper</h1>
+                                                                                        <h1>Aplicação</h1>
                                                                                     </td>
                                                                                 </tr>
                                                                             
@@ -104,7 +104,7 @@ class MailService {
                                                                                 </tr>
                                                                                 <tr>
                                                                                     <td align="center" class="esd-block-text es-p10t es-p10b">
-                                                                                        <p style="line-height: 150%;">Você solicitou a recuperação da senha de acesso ao Scraper.</p>
+                                                                                        <p style="line-height: 150%;">Você solicitou a recuperação da senha de acesso a Aplicação.</p>
                                                                                     </td>
                                                                                 </tr>
                                                                             </tbody>
@@ -140,7 +140,7 @@ class MailService {
                                                                                         <p style="line-height: 200%;">Se você não solicitou ou tem dúvidas, por favor, envie uma mensagem para suporte@localhost</p>
                                                                                         <p style="line-height: 200%;"><br></p>
                                                                                         <p style="line-height: 200%;">Atenciosamente,</p>
-                                                                                        <p style="line-height: 200%;">Scraper.</p>
+                                                                                        <p style="line-height: 200%;">Aplicação.</p>
                                                                                     </td>
                                                                                 </tr>
                                                                             </tbody>
@@ -204,7 +204,7 @@ class MailService {
                                                                             <tbody>
                                                                                 <tr>
                                                                                     <td align="center" class="esd-block-text es-p35b">
-                                                                                        <p>Scraper © 2024 Software Development. All Rights Reserved.</p>
+                                                                                        <p>Aplicação © 2024 Software Development. All Rights Reserved.</p>
                                                                                     </td>
                                                                                 </tr>
                                                                             </tbody>
